@@ -1,0 +1,33 @@
+.estado{
+
+    padding: 10px;
+    width:400px;
+    height: 300px;
+    border: 2px dashed black;
+    margin-bottom: 10px;
+    display: inline-block;
+    height:fit-content
+
+}
+    
+    .imagem-es {
+         float: left;
+        width: 156px;
+        height: 160px; 
+
+
+        
+    }
+
+    h2{
+        text-align: center;
+    }
+
+    .paragrafo{
+    
+        text-align: center;
+        margin-left: 1px;
+
+    }
+    
+
